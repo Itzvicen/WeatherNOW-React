@@ -1,5 +1,7 @@
 # WeatherNOW ⛅️
 
+![Image text](https://github.com/Itzvicen/WeatherNOW-React/blob/main/preview.png)
+
 ### At this moment the proyect is not finished yet
 
 · Live Demo: https://weather.vicenweb.es
