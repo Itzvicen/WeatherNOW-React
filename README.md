@@ -2,7 +2,7 @@
 
 ### At this moment the proyect is not finished yet!
 
-· Live Demo: https://weather.vicenweb.es
+· Live Demo: https://weather.vicen.me
 
 · This project was created with React using OpenWeatherMAP API 
 
